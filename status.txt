@@ -1,2 +1,1 @@
-BANNER|Zalecane odświeżenie strony|warning
-NOTIFY|Znowu coś jest spierdolone|
+
