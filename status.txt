@@ -1,1 +1,1 @@
-BANNER|Testowy banner informacyjny|info
+BANNER|Zalecane odświeżenie strony|warning
